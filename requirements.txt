@@ -1,0 +1,6 @@
+streamlit>=1.51
+ollama
+openai-whisper
+soundfile
+pypdf
+streamlit-webrtc>=0.77.0
