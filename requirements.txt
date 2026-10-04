@@ -1,6 +1,10 @@
+
 streamlit>=1.51
 ollama
+groq
 openai-whisper
 soundfile
 pypdf
 streamlit-webrtc>=0.77.0
+aiortc
+av
